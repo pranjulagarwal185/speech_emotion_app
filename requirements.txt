@@ -3,7 +3,6 @@ lxml==4.4.1
 soundfile==0.10.2
 cython==0.29.21
 matplotlib==3.1.1
-pandas==0.25.2
 Pillow==6.2.1
 scikit-learn==0.21.3
 seaborn==0.9.0
