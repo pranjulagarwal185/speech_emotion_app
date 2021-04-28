@@ -1,3 +1,4 @@
+numpy==1.18.5
 aniso8601==8.0.0
 audioread==2.1.8
 certifi==2019.11.28
@@ -15,8 +16,6 @@ joblib==0.14.1
 librosa==0.7.2
 MarkupSafe==1.1.1
 marshmallow==3.2.2
-numba==0.48.0
-numpy==1.18.1
 pycparser==2.20
 pydub==0.23.1
 pytz==2019.3
