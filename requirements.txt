@@ -23,6 +23,7 @@ pytz==2019.3
 resampy==0.2.2
 scikit-learn==0.22.2.post1
 six==1.14.0
+cython==0.29.21
 SoundFile==0.10.3.post1
 Werkzeug==1.0.0
 wincertstore==0.2
